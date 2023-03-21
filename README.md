@@ -1,18 +1,11 @@
-## Getting Started
+## KATA FUZZBIZZ JAVA
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<b>Instructions</b>
 
-## Folder Structure
+Write a program that replaces any number divisible by three with the word "Fizz", and any number divisible by five with the word "Buzz", and any number divisible by both 3 and 5 with the word "FizzBuzz".
 
-The workspace contains two folders by default, where:
+<b>SCREENSHOT</b>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+![2023-03-21 22 20 34](https://user-images.githubusercontent.com/116891081/226744896-295736a8-db52-4a7a-8b08-c6a3ea058f8a.jpg)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
